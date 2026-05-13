@@ -208,6 +208,3 @@ git clone https://github.com/Alok5445Sagar/AR-Ground-Plane-Barbarian-Model.git
 # 👨‍💻 Author
 
 ## Alok Sagar
-
-
-This project is open-source and available under the MIT License.
